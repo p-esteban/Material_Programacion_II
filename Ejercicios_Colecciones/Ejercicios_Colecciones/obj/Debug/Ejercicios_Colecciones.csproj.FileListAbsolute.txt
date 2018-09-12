@@ -1,0 +1,7 @@
+C:\Users\m_xer\source\repos\Ejercicios_Colecciones\Ejercicios_Colecciones\bin\Debug\Ejercicios_Colecciones.exe.config
+C:\Users\m_xer\source\repos\Ejercicios_Colecciones\Ejercicios_Colecciones\bin\Debug\Ejercicios_Colecciones.exe
+C:\Users\m_xer\source\repos\Ejercicios_Colecciones\Ejercicios_Colecciones\bin\Debug\Ejercicios_Colecciones.pdb
+C:\Users\m_xer\source\repos\Ejercicios_Colecciones\Ejercicios_Colecciones\obj\Debug\Ejercicios_Colecciones.csprojAssemblyReference.cache
+C:\Users\m_xer\source\repos\Ejercicios_Colecciones\Ejercicios_Colecciones\obj\Debug\Ejercicios_Colecciones.csproj.CoreCompileInputs.cache
+C:\Users\m_xer\source\repos\Ejercicios_Colecciones\Ejercicios_Colecciones\obj\Debug\Ejercicios_Colecciones.exe
+C:\Users\m_xer\source\repos\Ejercicios_Colecciones\Ejercicios_Colecciones\obj\Debug\Ejercicios_Colecciones.pdb
