@@ -59,7 +59,7 @@ namespace Ejercicios_Colecciones
             }
 
             Console.ReadKey();
-
+            Console.Clear();
             /*Una expresión Lambda es una función anónima. 
             Con ellas se puede escribir funciones que pueden ser pasadas como argumento 
             o retornadas en una función.
@@ -70,7 +70,33 @@ namespace Ejercicios_Colecciones
             en adelante mediante expresiones de consulta parecidas a las sentencias SQL. 
             Los métodos Where y OrderBy pertenecen a LINQ. 
             */
-            int[] arrayPositivos = array.Where(x => x > 0).OrderByDescending(x => x).ToArray();
+            
+            int[] arrayPositivos = array.Where(x => x > 0).ToArray();
+            
+            int[] arrayPositivosOrdenados = arrayPositivos.OrderByDescending(x => x).ToArray();
+                                 
+
+            Console.WriteLine("\nArray: ");
+            foreach (int num in array)
+            {
+                Console.Write("{0}, ", num);
+            }
+
+            Console.WriteLine("\nArray POSITIVOS: ");
+            foreach (int num in arrayPositivos)
+            {
+                Console.Write("{0}, ", num);
+            }
+
+            Console.WriteLine("\nArray positivos ORDENADOS: ");
+            foreach (int num in arrayPositivosOrdenados)
+            {
+                Console.Write("{0}, ", num);
+            }
+
+            Console.ReadKey();
+
+
             List<int> listaPositivos = lista.Where(x => x > 0).OrderByDescending(x => x).ToList();
             //A las pilas y a las colas se las puede inicializar a partir de cualquier IEnumerable. 
             Queue<int> colaNegativos = new Queue<int>(cola.Where(x => x < 0).OrderBy(x => x).ToList());
@@ -78,7 +104,7 @@ namespace Ejercicios_Colecciones
             Console.Clear();
             Console.WriteLine("ORDENADOS");
             Console.WriteLine("\nArray: ");
-            foreach (int num in arrayPositivos)
+            foreach (int num in arrayPositivosOrdenados)
             {
                 Console.Write("{0}, ", num);
             }
