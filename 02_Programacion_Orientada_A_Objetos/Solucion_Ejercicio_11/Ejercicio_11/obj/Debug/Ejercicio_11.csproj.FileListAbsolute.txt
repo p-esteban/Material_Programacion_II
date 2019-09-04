@@ -5,3 +5,7 @@ D:\VisualStudio\Solucion_Ejercicio_11\Ejercicio_11\obj\Debug\Ejercicio_11.csproj
 D:\VisualStudio\Solucion_Ejercicio_11\Ejercicio_11\obj\Debug\Ejercicio_11.csproj.CoreCompileInputs.cache
 D:\VisualStudio\Solucion_Ejercicio_11\Ejercicio_11\obj\Debug\Ejercicio_11.exe
 D:\VisualStudio\Solucion_Ejercicio_11\Ejercicio_11\obj\Debug\Ejercicio_11.pdb
+F:\Temporal\Trabajo_UTN\Programación_II\Material_Programacion_II\02_Programacion_Orientada_A_Objetos\Solucion_Ejercicio_11\Ejercicio_11\obj\Debug\Ejercicio_11.csprojAssemblyReference.cache
+F:\Temporal\Trabajo_UTN\Programación_II\Material_Programacion_II\02_Programacion_Orientada_A_Objetos\Solucion_Ejercicio_11\Ejercicio_11\obj\Debug\Ejercicio_11.csproj.CoreCompileInputs.cache
+F:\Temporal\Trabajo_UTN\Programación_II\Material_Programacion_II\02_Programacion_Orientada_A_Objetos\Solucion_Ejercicio_11\Ejercicio_11\obj\Debug\Ejercicio_11.exe
+F:\Temporal\Trabajo_UTN\Programación_II\Material_Programacion_II\02_Programacion_Orientada_A_Objetos\Solucion_Ejercicio_11\Ejercicio_11\obj\Debug\Ejercicio_11.pdb

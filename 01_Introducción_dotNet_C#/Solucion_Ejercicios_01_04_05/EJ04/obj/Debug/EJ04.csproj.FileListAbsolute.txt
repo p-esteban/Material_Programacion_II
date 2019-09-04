@@ -1,0 +1,6 @@
+C:\Users\alumno\Desktop\Ejercicio01\EJ04\bin\Debug\EJ04.exe.config
+C:\Users\alumno\Desktop\Ejercicio01\EJ04\bin\Debug\EJ04.exe
+C:\Users\alumno\Desktop\Ejercicio01\EJ04\bin\Debug\EJ04.pdb
+C:\Users\alumno\Desktop\Ejercicio01\EJ04\obj\Debug\EJ04.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Ejercicio01\EJ04\obj\Debug\EJ04.exe
+C:\Users\alumno\Desktop\Ejercicio01\EJ04\obj\Debug\EJ04.pdb

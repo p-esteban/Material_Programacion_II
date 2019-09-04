@@ -11,6 +11,8 @@ namespace Ejemplo_Sobrecarga_Constructores
         static void Main(string[] args)
         {
             Sobrecarga sobrecarga = new Sobrecarga(3, 4, "Prueba");
+
+            sobrecarga.Metodo(5F);
         }
     }
 }
