@@ -3,3 +3,9 @@ D:\VisualStudio\Solucion_Ejercicio_05\Entidades\bin\Debug\Entidades.pdb
 D:\VisualStudio\Solucion_Ejercicio_05\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 D:\VisualStudio\Solucion_Ejercicio_05\Entidades\obj\Debug\Entidades.dll
 D:\VisualStudio\Solucion_Ejercicio_05\Entidades\obj\Debug\Entidades.pdb
+C:\Users\alumno\Desktop\Material_Programacion_II\05_Repaso\Solucion_Ejercicio_05\Entidades\bin\Debug\Entidades.dll
+C:\Users\alumno\Desktop\Material_Programacion_II\05_Repaso\Solucion_Ejercicio_05\Entidades\bin\Debug\Entidades.pdb
+C:\Users\alumno\Desktop\Material_Programacion_II\05_Repaso\Solucion_Ejercicio_05\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Material_Programacion_II\05_Repaso\Solucion_Ejercicio_05\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Material_Programacion_II\05_Repaso\Solucion_Ejercicio_05\Entidades\obj\Debug\Entidades.dll
+C:\Users\alumno\Desktop\Material_Programacion_II\05_Repaso\Solucion_Ejercicio_05\Entidades\obj\Debug\Entidades.pdb

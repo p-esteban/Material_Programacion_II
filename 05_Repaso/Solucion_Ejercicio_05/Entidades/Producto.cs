@@ -53,7 +53,7 @@
             retorno += string.Format("Codigo: {0} \n", p.codigoDeBarra);
             retorno += string.Format("Marca: {0} \n", p.GetMarca());
             retorno += string.Format("Precio: {0:#.00} \n", p.GetPrecio());
-
+            
             return retorno;
         }
         #endregion

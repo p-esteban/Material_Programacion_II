@@ -12,7 +12,6 @@ namespace Ejemplo_Sobrecarga_Constructores
         {
             Sobrecarga sobrecarga = new Sobrecarga(3, 4, "Prueba");
 
-            sobrecarga.Metodo(5F);
         }
     }
 }
