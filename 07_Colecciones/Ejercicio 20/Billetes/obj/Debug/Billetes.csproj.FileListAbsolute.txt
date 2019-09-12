@@ -1,0 +1,7 @@
+C:\Users\alumno\Desktop\Ejercicio 20\Billetes\bin\Debug\Billetes.exe.config
+C:\Users\alumno\Desktop\Ejercicio 20\Billetes\bin\Debug\Billetes.exe
+C:\Users\alumno\Desktop\Ejercicio 20\Billetes\bin\Debug\Billetes.pdb
+C:\Users\alumno\Desktop\Ejercicio 20\Billetes\obj\Debug\Billetes.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Ejercicio 20\Billetes\obj\Debug\Billetes.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Ejercicio 20\Billetes\obj\Debug\Billetes.exe
+C:\Users\alumno\Desktop\Ejercicio 20\Billetes\obj\Debug\Billetes.pdb
