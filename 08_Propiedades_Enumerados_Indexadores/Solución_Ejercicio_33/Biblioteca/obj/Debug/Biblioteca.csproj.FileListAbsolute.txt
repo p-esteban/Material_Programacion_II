@@ -1,0 +1,6 @@
+D:\VisualStudio\Solución_Ejercicio_33\Biblioteca\bin\Debug\Biblioteca.dll
+D:\VisualStudio\Solución_Ejercicio_33\Biblioteca\bin\Debug\Biblioteca.pdb
+D:\VisualStudio\Solución_Ejercicio_33\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+D:\VisualStudio\Solución_Ejercicio_33\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Solución_Ejercicio_33\Biblioteca\obj\Debug\Biblioteca.dll
+D:\VisualStudio\Solución_Ejercicio_33\Biblioteca\obj\Debug\Biblioteca.pdb

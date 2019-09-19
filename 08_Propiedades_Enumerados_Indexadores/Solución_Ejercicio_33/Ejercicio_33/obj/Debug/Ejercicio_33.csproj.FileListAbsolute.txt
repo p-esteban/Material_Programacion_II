@@ -1,0 +1,10 @@
+D:\VisualStudio\Solución_Ejercicio_33\Ejercicio_33\bin\Debug\Ejercicio_33.exe.config
+D:\VisualStudio\Solución_Ejercicio_33\Ejercicio_33\bin\Debug\Ejercicio_33.exe
+D:\VisualStudio\Solución_Ejercicio_33\Ejercicio_33\bin\Debug\Ejercicio_33.pdb
+D:\VisualStudio\Solución_Ejercicio_33\Ejercicio_33\bin\Debug\Biblioteca.dll
+D:\VisualStudio\Solución_Ejercicio_33\Ejercicio_33\bin\Debug\Biblioteca.pdb
+D:\VisualStudio\Solución_Ejercicio_33\Ejercicio_33\obj\Debug\Ejercicio_33.csprojAssemblyReference.cache
+D:\VisualStudio\Solución_Ejercicio_33\Ejercicio_33\obj\Debug\Ejercicio_33.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Solución_Ejercicio_33\Ejercicio_33\obj\Debug\Ejercicio_33.csproj.CopyComplete
+D:\VisualStudio\Solución_Ejercicio_33\Ejercicio_33\obj\Debug\Ejercicio_33.exe
+D:\VisualStudio\Solución_Ejercicio_33\Ejercicio_33\obj\Debug\Ejercicio_33.pdb
