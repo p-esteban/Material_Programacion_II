@@ -1,0 +1,6 @@
+C:\Users\A308300\source\repos\CalculadoraFormas\Formas\bin\Debug\Formas.dll
+C:\Users\A308300\source\repos\CalculadoraFormas\Formas\bin\Debug\Formas.pdb
+C:\Users\A308300\source\repos\CalculadoraFormas\Formas\obj\Debug\Formas.csprojAssemblyReference.cache
+C:\Users\A308300\source\repos\CalculadoraFormas\Formas\obj\Debug\Formas.csproj.CoreCompileInputs.cache
+C:\Users\A308300\source\repos\CalculadoraFormas\Formas\obj\Debug\Formas.dll
+C:\Users\A308300\source\repos\CalculadoraFormas\Formas\obj\Debug\Formas.pdb

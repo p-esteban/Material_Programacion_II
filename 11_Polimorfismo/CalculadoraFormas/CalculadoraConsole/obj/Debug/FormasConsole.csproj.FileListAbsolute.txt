@@ -1,0 +1,10 @@
+C:\Users\A308300\source\repos\CalculadoraFormas\CalculadoraConsole\bin\Debug\CalculadoraConsole.exe.config
+C:\Users\A308300\source\repos\CalculadoraFormas\CalculadoraConsole\bin\Debug\CalculadoraConsole.exe
+C:\Users\A308300\source\repos\CalculadoraFormas\CalculadoraConsole\bin\Debug\CalculadoraConsole.pdb
+C:\Users\A308300\source\repos\CalculadoraFormas\CalculadoraConsole\bin\Debug\Formas.dll
+C:\Users\A308300\source\repos\CalculadoraFormas\CalculadoraConsole\bin\Debug\Formas.pdb
+C:\Users\A308300\source\repos\CalculadoraFormas\CalculadoraConsole\obj\Debug\FormasConsole.csprojAssemblyReference.cache
+C:\Users\A308300\source\repos\CalculadoraFormas\CalculadoraConsole\obj\Debug\FormasConsole.csproj.CoreCompileInputs.cache
+C:\Users\A308300\source\repos\CalculadoraFormas\CalculadoraConsole\obj\Debug\FormasConsole.csproj.CopyComplete
+C:\Users\A308300\source\repos\CalculadoraFormas\CalculadoraConsole\obj\Debug\CalculadoraConsole.exe
+C:\Users\A308300\source\repos\CalculadoraFormas\CalculadoraConsole\obj\Debug\CalculadoraConsole.pdb
