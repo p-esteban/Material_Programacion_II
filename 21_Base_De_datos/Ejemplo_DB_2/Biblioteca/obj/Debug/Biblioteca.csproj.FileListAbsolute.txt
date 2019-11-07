@@ -1,0 +1,12 @@
+D:\VisualStudio\Ejemplo_DB\Biblioteca\bin\Debug\Biblioteca.dll
+D:\VisualStudio\Ejemplo_DB\Biblioteca\bin\Debug\Biblioteca.pdb
+D:\VisualStudio\Ejemplo_DB\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+D:\VisualStudio\Ejemplo_DB\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Ejemplo_DB\Biblioteca\obj\Debug\Biblioteca.dll
+D:\VisualStudio\Ejemplo_DB\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\alumno\Desktop\Ejemplo_DB\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\alumno\Desktop\Ejemplo_DB\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\alumno\Desktop\Ejemplo_DB\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Ejemplo_DB\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Ejemplo_DB\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\alumno\Desktop\Ejemplo_DB\Biblioteca\obj\Debug\Biblioteca.pdb
