@@ -1,0 +1,28 @@
+C:\Users\mauri\source\repos\Ejercicio_Clase_Hilos_1\Reloj\bin\Debug\Reloj.exe.config
+C:\Users\mauri\source\repos\Ejercicio_Clase_Hilos_1\Reloj\bin\Debug\Reloj.exe
+C:\Users\mauri\source\repos\Ejercicio_Clase_Hilos_1\Reloj\bin\Debug\Reloj.pdb
+C:\Users\mauri\source\repos\Ejercicio_Clase_Hilos_1\Reloj\obj\Debug\Cronometro.csprojAssemblyReference.cache
+C:\Users\mauri\source\repos\Ejercicio_Clase_Hilos_1\Reloj\obj\Debug\Reloj.Properties.Resources.resources
+C:\Users\mauri\source\repos\Ejercicio_Clase_Hilos_1\Reloj\obj\Debug\Cronometro.csproj.GenerateResource.cache
+C:\Users\mauri\source\repos\Ejercicio_Clase_Hilos_1\Reloj\obj\Debug\Reloj.exe
+C:\Users\mauri\source\repos\Ejercicio_Clase_Hilos_1\Reloj\obj\Debug\Reloj.pdb
+C:\Users\mauri\source\repos\Ejercicio_Clase_Hilos_1\Reloj\obj\Debug\Reloj.CronometroForm.resources
+C:\Users\mauri\Google Drive\Ejercicio_Clase_Hilos_1\Reloj\bin\Debug\Reloj.exe.config
+C:\Users\mauri\Google Drive\Ejercicio_Clase_Hilos_1\Reloj\bin\Debug\Reloj.exe
+C:\Users\mauri\Google Drive\Ejercicio_Clase_Hilos_1\Reloj\bin\Debug\Reloj.pdb
+C:\Users\mauri\Google Drive\Ejercicio_Clase_Hilos_1\Reloj\obj\Debug\Cronometro.csprojAssemblyReference.cache
+C:\Users\mauri\Google Drive\Ejercicio_Clase_Hilos_1\Reloj\obj\Debug\Reloj.CronometroForm.resources
+C:\Users\mauri\Google Drive\Ejercicio_Clase_Hilos_1\Reloj\obj\Debug\Reloj.Properties.Resources.resources
+C:\Users\mauri\Google Drive\Ejercicio_Clase_Hilos_1\Reloj\obj\Debug\Cronometro.csproj.GenerateResource.cache
+C:\Users\mauri\Google Drive\Ejercicio_Clase_Hilos_1\Reloj\obj\Debug\Reloj.exe
+C:\Users\mauri\Google Drive\Ejercicio_Clase_Hilos_1\Reloj\obj\Debug\Reloj.pdb
+C:\Users\Kima\Google Drive\Ejercicio_Clase_Hilos_1\Reloj\bin\Debug\Reloj.exe.config
+C:\Users\Kima\Google Drive\Ejercicio_Clase_Hilos_1\Reloj\bin\Debug\Reloj.exe
+C:\Users\Kima\Google Drive\Ejercicio_Clase_Hilos_1\Reloj\bin\Debug\Reloj.pdb
+C:\Users\Kima\Google Drive\Ejercicio_Clase_Hilos_1\Reloj\obj\Debug\Cronometro.csprojAssemblyReference.cache
+C:\Users\Kima\Google Drive\Ejercicio_Clase_Hilos_1\Reloj\obj\Debug\Reloj.CronometroForm.resources
+C:\Users\Kima\Google Drive\Ejercicio_Clase_Hilos_1\Reloj\obj\Debug\Reloj.Properties.Resources.resources
+C:\Users\Kima\Google Drive\Ejercicio_Clase_Hilos_1\Reloj\obj\Debug\Cronometro.csproj.GenerateResource.cache
+C:\Users\Kima\Google Drive\Ejercicio_Clase_Hilos_1\Reloj\obj\Debug\Cronometro.csproj.CoreCompileInputs.cache
+C:\Users\Kima\Google Drive\Ejercicio_Clase_Hilos_1\Reloj\obj\Debug\Reloj.exe
+C:\Users\Kima\Google Drive\Ejercicio_Clase_Hilos_1\Reloj\obj\Debug\Reloj.pdb

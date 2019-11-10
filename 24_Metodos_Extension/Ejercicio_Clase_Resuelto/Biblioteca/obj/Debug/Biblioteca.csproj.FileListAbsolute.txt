@@ -1,0 +1,5 @@
+C:\Users\mauri\Desktop\PlacaCronica\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\mauri\Desktop\PlacaCronica\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\mauri\Desktop\PlacaCronica\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+C:\Users\mauri\Desktop\PlacaCronica\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\mauri\Desktop\PlacaCronica\Biblioteca\obj\Debug\Biblioteca.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HilosForm", "WindowsFormsApp2\HilosForm.csproj", "{3F257AB0-0136-4414-834E-8E9B6295903B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F257AB0-0136-4414-834E-8E9B6295903B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F257AB0-0136-4414-834E-8E9B6295903B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F257AB0-0136-4414-834E-8E9B6295903B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F257AB0-0136-4414-834E-8E9B6295903B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {879CCA09-C150-45B8-930E-D41C413584AE}
+	EndGlobalSection
+EndGlobal

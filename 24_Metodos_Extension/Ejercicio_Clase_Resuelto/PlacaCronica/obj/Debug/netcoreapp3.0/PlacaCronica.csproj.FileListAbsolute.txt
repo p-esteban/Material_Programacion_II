@@ -1,0 +1,14 @@
+C:\Users\mauri\Desktop\PlacaCronica\PlacaCronica\bin\Debug\netcoreapp3.0\PlacaCronica.exe
+C:\Users\mauri\Desktop\PlacaCronica\PlacaCronica\bin\Debug\netcoreapp3.0\PlacaCronica.deps.json
+C:\Users\mauri\Desktop\PlacaCronica\PlacaCronica\bin\Debug\netcoreapp3.0\PlacaCronica.runtimeconfig.json
+C:\Users\mauri\Desktop\PlacaCronica\PlacaCronica\bin\Debug\netcoreapp3.0\PlacaCronica.runtimeconfig.dev.json
+C:\Users\mauri\Desktop\PlacaCronica\PlacaCronica\bin\Debug\netcoreapp3.0\PlacaCronica.dll
+C:\Users\mauri\Desktop\PlacaCronica\PlacaCronica\bin\Debug\netcoreapp3.0\PlacaCronica.pdb
+C:\Users\mauri\Desktop\PlacaCronica\PlacaCronica\bin\Debug\netcoreapp3.0\Biblioteca.dll
+C:\Users\mauri\Desktop\PlacaCronica\PlacaCronica\bin\Debug\netcoreapp3.0\Biblioteca.pdb
+C:\Users\mauri\Desktop\PlacaCronica\PlacaCronica\obj\Debug\netcoreapp3.0\PlacaCronica.csprojAssemblyReference.cache
+C:\Users\mauri\Desktop\PlacaCronica\PlacaCronica\obj\Debug\netcoreapp3.0\PlacaCronica.AssemblyInfoInputs.cache
+C:\Users\mauri\Desktop\PlacaCronica\PlacaCronica\obj\Debug\netcoreapp3.0\PlacaCronica.AssemblyInfo.cs
+C:\Users\mauri\Desktop\PlacaCronica\PlacaCronica\obj\Debug\netcoreapp3.0\PlacaCronica.csproj.CopyComplete
+C:\Users\mauri\Desktop\PlacaCronica\PlacaCronica\obj\Debug\netcoreapp3.0\PlacaCronica.dll
+C:\Users\mauri\Desktop\PlacaCronica\PlacaCronica\obj\Debug\netcoreapp3.0\PlacaCronica.pdb
