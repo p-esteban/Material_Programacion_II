@@ -1,0 +1,5 @@
+C:\Users\mauri\Google Drive\Profesor UTN\Programación_II\Material_Programacion_II\23_Eventos\Ejercicio_Clase\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\mauri\Google Drive\Profesor UTN\Programación_II\Material_Programacion_II\23_Eventos\Ejercicio_Clase\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\mauri\Google Drive\Profesor UTN\Programación_II\Material_Programacion_II\23_Eventos\Ejercicio_Clase\ClassLibrary1\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+C:\Users\mauri\Google Drive\Profesor UTN\Programación_II\Material_Programacion_II\23_Eventos\Ejercicio_Clase\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\mauri\Google Drive\Profesor UTN\Programación_II\Material_Programacion_II\23_Eventos\Ejercicio_Clase\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

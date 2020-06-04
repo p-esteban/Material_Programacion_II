@@ -1,0 +1,24 @@
+C:\Users\Kima\source\repos\Ejercicio_Clase\GeneradorDeArchivos\bin\Debug\GeneradorDeArchivos.exe.config
+C:\Users\Kima\source\repos\Ejercicio_Clase\GeneradorDeArchivos\bin\Debug\GeneradorDeArchivos.exe
+C:\Users\Kima\source\repos\Ejercicio_Clase\GeneradorDeArchivos\bin\Debug\GeneradorDeArchivos.pdb
+C:\Users\Kima\source\repos\Ejercicio_Clase\GeneradorDeArchivos\obj\Debug\GeneradorDeArchivos.csprojAssemblyReference.cache
+C:\Users\Kima\source\repos\Ejercicio_Clase\GeneradorDeArchivos\obj\Debug\GeneradorDeArchivos.GeneradorForm.resources
+C:\Users\Kima\source\repos\Ejercicio_Clase\GeneradorDeArchivos\obj\Debug\GeneradorDeArchivos.Properties.Resources.resources
+C:\Users\Kima\source\repos\Ejercicio_Clase\GeneradorDeArchivos\obj\Debug\GeneradorDeArchivos.csproj.GenerateResource.cache
+C:\Users\Kima\source\repos\Ejercicio_Clase\GeneradorDeArchivos\obj\Debug\GeneradorDeArchivos.csproj.CoreCompileInputs.cache
+C:\Users\Kima\source\repos\Ejercicio_Clase\GeneradorDeArchivos\obj\Debug\GeneradorDeArchivos.exe
+C:\Users\Kima\source\repos\Ejercicio_Clase\GeneradorDeArchivos\obj\Debug\GeneradorDeArchivos.pdb
+C:\Users\Kima\source\repos\Ejercicio_Clase\GeneradorDeArchivos\obj\Debug\GeneradorDeArchivos.ProgresoForm.resources
+C:\Users\mauri\Google Drive\Profesor UTN\Programación_II\Material_Programacion_II\23_Eventos\Ejercicio_Clase\GeneradorDeArchivos\bin\Debug\GeneradorDeArchivos.exe.config
+C:\Users\mauri\Google Drive\Profesor UTN\Programación_II\Material_Programacion_II\23_Eventos\Ejercicio_Clase\GeneradorDeArchivos\bin\Debug\GeneradorDeArchivos.exe
+C:\Users\mauri\Google Drive\Profesor UTN\Programación_II\Material_Programacion_II\23_Eventos\Ejercicio_Clase\GeneradorDeArchivos\bin\Debug\GeneradorDeArchivos.pdb
+C:\Users\mauri\Google Drive\Profesor UTN\Programación_II\Material_Programacion_II\23_Eventos\Ejercicio_Clase\GeneradorDeArchivos\bin\Debug\ClassLibrary1.dll
+C:\Users\mauri\Google Drive\Profesor UTN\Programación_II\Material_Programacion_II\23_Eventos\Ejercicio_Clase\GeneradorDeArchivos\bin\Debug\ClassLibrary1.pdb
+C:\Users\mauri\Google Drive\Profesor UTN\Programación_II\Material_Programacion_II\23_Eventos\Ejercicio_Clase\GeneradorDeArchivos\obj\Debug\GeneradorDeArchivos.csprojAssemblyReference.cache
+C:\Users\mauri\Google Drive\Profesor UTN\Programación_II\Material_Programacion_II\23_Eventos\Ejercicio_Clase\GeneradorDeArchivos\obj\Debug\GeneradorDeArchivos.GeneradorForm.resources
+C:\Users\mauri\Google Drive\Profesor UTN\Programación_II\Material_Programacion_II\23_Eventos\Ejercicio_Clase\GeneradorDeArchivos\obj\Debug\GeneradorDeArchivos.ProgresoForm.resources
+C:\Users\mauri\Google Drive\Profesor UTN\Programación_II\Material_Programacion_II\23_Eventos\Ejercicio_Clase\GeneradorDeArchivos\obj\Debug\GeneradorDeArchivos.Properties.Resources.resources
+C:\Users\mauri\Google Drive\Profesor UTN\Programación_II\Material_Programacion_II\23_Eventos\Ejercicio_Clase\GeneradorDeArchivos\obj\Debug\GeneradorDeArchivos.csproj.GenerateResource.cache
+C:\Users\mauri\Google Drive\Profesor UTN\Programación_II\Material_Programacion_II\23_Eventos\Ejercicio_Clase\GeneradorDeArchivos\obj\Debug\GeneradorDeArchivos.csproj.CopyComplete
+C:\Users\mauri\Google Drive\Profesor UTN\Programación_II\Material_Programacion_II\23_Eventos\Ejercicio_Clase\GeneradorDeArchivos\obj\Debug\GeneradorDeArchivos.exe
+C:\Users\mauri\Google Drive\Profesor UTN\Programación_II\Material_Programacion_II\23_Eventos\Ejercicio_Clase\GeneradorDeArchivos\obj\Debug\GeneradorDeArchivos.pdb
