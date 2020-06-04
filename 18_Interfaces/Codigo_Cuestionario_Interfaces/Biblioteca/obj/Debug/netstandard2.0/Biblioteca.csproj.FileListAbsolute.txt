@@ -1,0 +1,9 @@
+C:\Users\A308300\Desktop\EjemplosUtn\Biblioteca\bin\Debug\netstandard2.0\Biblioteca.deps.json
+C:\Users\A308300\Desktop\EjemplosUtn\Biblioteca\bin\Debug\netstandard2.0\Biblioteca.dll
+C:\Users\A308300\Desktop\EjemplosUtn\Biblioteca\bin\Debug\netstandard2.0\Biblioteca.pdb
+C:\Users\A308300\Desktop\EjemplosUtn\Biblioteca\obj\Debug\netstandard2.0\Biblioteca.csprojAssemblyReference.cache
+C:\Users\A308300\Desktop\EjemplosUtn\Biblioteca\obj\Debug\netstandard2.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\A308300\Desktop\EjemplosUtn\Biblioteca\obj\Debug\netstandard2.0\Biblioteca.AssemblyInfo.cs
+C:\Users\A308300\Desktop\EjemplosUtn\Biblioteca\obj\Debug\netstandard2.0\Biblioteca.dll
+C:\Users\A308300\Desktop\EjemplosUtn\Biblioteca\obj\Debug\netstandard2.0\Biblioteca.pdb
+C:\Users\A308300\Desktop\EjemplosUtn\Biblioteca\obj\Debug\netstandard2.0\Biblioteca.csproj.CoreCompileInputs.cache
